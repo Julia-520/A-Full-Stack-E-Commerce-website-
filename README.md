@@ -1,2 +1,4 @@
 # A-Full-Stack-E-Commerce-website-
-A Full Stack E-Commerce website with Angular and Java Spring Boot
+Build an E-commerce Website for users to scan goods and make orders.
+It is a a Full Stack project with Angular(frontend) and Java Spring Boot(backend).
+
